@@ -1,17 +1,51 @@
-# autogest_rd
+# 🚗 AutoGest RD
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter para la gestión de vehículos, mantenimiento, gastos, ingresos y comunidad (foro), integrando consumo de API REST.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Características principales
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Autenticación de usuarios
+- 🚘 Gestión de vehículos (CRUD)
+- 🛠️ Mantenimientos
+- ⛽ Combustible
+- 💸 Gastos
+- 💰 Ingresos
+- 🛞 Estado de gomas
+- 📰 Noticias con imágenes dinámicas
+- 🎥 Videos educativos
+- 🧠 Foro (crear temas y responder)
+- 👤 Perfil con foto editable
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧱 Tecnologías utilizadas
+
+- Flutter
+- Dart
+- Provider (State Management)
+- HTTP (Consumo de API)
+- Image Picker
+- URL Launcher
+
+---
+
+## 🎨 Diseño
+
+- Tema oscuro moderno
+- Colores: negro + naranja
+- UI basada en Material Design
+- Dashboard estilo fintech
+
+---
+
+## 🔌 API utilizada
+
+Base URL: https://taller-itla.ia3x.com/instrucciones
+
+
+Autores: 
+
+🕴🏽- Yarbis Beltré Mercedes
+🕴🏽- Sebastian Escaño Pérez
